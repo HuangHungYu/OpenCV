@@ -5,7 +5,3 @@
 **Tom Huang's Github link**<br>
 ![image](https://github.com/HuangHungYu/OpenCV/blob/main/QRCode.png)
 
-@import url(‘https://fonts.googleapis.com/css?family=Roboto’);
-body, .js-navigation-open, .js-navigation-close {
-font-size: 16px !important;
-}
