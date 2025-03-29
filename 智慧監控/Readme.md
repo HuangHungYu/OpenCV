@@ -28,12 +28,12 @@ pip install opencv-python
 ```
 from IPython.display import Image, display
 
-display(Image(filename="lenna.png"))
+display(Image(filename="lenna.jpg"))
 ```
 
 ### 顯示結果
 <hr>
-<img src="jupyter-lenna.jpg" width="200" height="200" />
+<img src="jupyter_lenna.png" width="200" height="200" />
 <hr>
 
 ## 讀圖方式二
