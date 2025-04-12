@@ -5,7 +5,7 @@
 
 </summary>
 <H1>1.OpenCV 是什麼</H1>
----
+
 OpenCV 全名是 Open Source Computer Vision Library ( 開源計算機視覺函式庫 )，OpenCV 由 Intel 發起並開發，以 BSD 授權條款授權發行，可以在商業和研究領域中免費使用，是目前發展最完整的電腦視覺開源資源。
 
 OpenCV 常應用於擴增實境、臉部辨識、手勢辨識、動作辨識、運動跟蹤、物體辨識或圖像分割...等領域，能使用各種不同語言 ( Java、Python、C/C++...等 ) 進行開發，由於 OpenCV 的高執行效率，甚至可用來開發 Real-time 的應用程式。
@@ -259,11 +259,11 @@ plt.show()
 # Disply all result
 
 </summary>
-<H1>讀圖方式一</H1>
+<H1>讀圖方式一: 顯示圖片</H1>
 <img src="jupyter_lenna.png" width="200" height="200" />
-<H1>讀圖方式二</H1>
+<H1>讀圖方式二: 彈出 Windows 視窗</H1>
 <img src="windows-lenna.jpg" width="150" height="200" />
-<H1>讀圖方式三</H1>
+<H1>讀圖方式三: 使用 matplotlib 顯示圖形</H1>
 <img src="plt-lenna.jpg" width="400" heigh="400" />
 <H1>練習一: 同時顯示多張子圖，以不同RGB色系呈現</H1>
 <img src="RGB-lenna.jpg" width="400" height="400" />
