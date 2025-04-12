@@ -58,7 +58,7 @@ cv2.destroyAllWindows()
 ```
 ### 顯示結果
 <br>
-<img src="windows-lenna.jpg" width="400" height="200" />
+<img src="windows-lenna.jpg" width="150" height="200" />
 <br>
 <hr>
 
@@ -252,7 +252,7 @@ plt.show()
 import cv2
 from matplotlib import pyplot as plt
 
-img = cv2.imread('mona.jpg')
+img = cv2.imread('lenna.jpg')
 im2 = img[:,:,::-1]              # Convert image as rgb
 plt.imshow(im2)
 plt.show()
@@ -266,5 +266,5 @@ plt.show()
 ```
 ### 顯示結果
 <br>
-<img src="canny-mona.jpg" width="250" height="600" />
+<img src="canny-lenna.jpg" width="250" height="600" />
 <br><hr>
