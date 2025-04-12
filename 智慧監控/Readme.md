@@ -62,7 +62,7 @@ plt.show()
 <br><hr>
 
 
-## 練習 同時顯示多張子圖，以不同RGB色系呈現
+## 練習一: 同時顯示多張子圖，以不同RGB色系呈現
 ```
 import cv2
 from matplotlib import pyplot as plt
@@ -97,7 +97,7 @@ plt.axis('off')     #不顯示座標尺寸
 <br><hr>
 
 
-## 練習 同時顯示多張子圖，以不同 "亮度" 呈現
+## 練習二: 同時顯示多張子圖，以不同 "亮度" 呈現
 ```
 import matplotlib.pyplot as plt
 import matplotlib.image as img
@@ -131,7 +131,7 @@ plt.show()
 <br><hr>
 
 
-## 練習 同時顯示多張子圖，以水平及垂直翻轉呈現
+## 練習三: 同時顯示多張子圖，以水平及垂直翻轉呈現
 ```
 import cv2
 import matplotlib.pyplot as plt
@@ -167,7 +167,7 @@ plt.show()
 <br><hr>
 
 
-## 練習圖片的放大縮小 ( Resize )
+## 練習四: 圖片的放大縮小 ( Resize )
 ```
 import cv2
 import matplotlib.pyplot as plt
@@ -230,7 +230,7 @@ plt.show()
 <br><hr>
 
 
-## 練習邊緣運算
+## 練習五: 邊緣運算
 ```
 import cv2
 from matplotlib import pyplot as plt
@@ -251,4 +251,30 @@ plt.show()
 <br>
 <img src="canny-lenna.jpg.png" width="250" height="600" />
 <br><hr>
+</details>
 
+<details>
+<summary>
+
+# Disply all result
+
+</summary>
+<H1>讀圖方式一</H1>
+<img src="jupyter_lenna.png" width="200" height="200" />
+<H1>讀圖方式二</H1>
+<img src="windows-lenna.jpg" width="150" height="200" />
+<H1>讀圖方式三</H1>
+<img src="plt-lenna.jpg" width="400" heigh="400" />
+<H1>練習一: 同時顯示多張子圖，以不同RGB色系呈現</H1>
+<img src="RGB-lenna.jpg" width="400" height="400" />
+<H1>練習二: 同時顯示多張子圖，以不同 "亮度" 呈現</H1>
+<img src="line-lenna.jpg" width="400" height="400" />
+<H1>練習三: 同時顯示多張子圖，以水平及垂直翻轉呈現</H1>
+<img src="flip-lenna.jpg" width="400" height="400" />
+<H1>練習四: 圖片的放大縮小 ( Resize )</H1>
+<img src="resize-lenna.jpg" width="400" height="400" />
+<H1>練習五: 邊緣運算</H1>
+<img src="canny-lenna.jpg.png" width="250" height="600" />
+
+
+</details>
