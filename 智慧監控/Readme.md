@@ -6,28 +6,7 @@ OpenCV 常應用於擴增實境、臉部辨識、手勢辨識、動作辨識、�
 
 <details>
 <summary>
-
 # OpenCV Lesson 1 讀圖練習
-
-</summary>
-<H1>1</H1>
-'''
-from IPython.display import Image, display
-display(Image(filename="lenna.jpg"))
-'''
-</details>
-
-
-<details>
-<summary>
-
-# Lesson 1
-
-</summary>
-<H1>讀圖方式一</H1>
-<H1>2</H1>
-<H1>3</H1>
-</details>
 
 ---
 # 讀取圖片練習
@@ -266,5 +245,6 @@ plt.show()
 ```
 ### 顯示結果
 <br>
-<img src="canny-lenna.jpg" width="250" height="600" />
+<img src="canny-lenna.jpg.png" width="250" height="600" />
 <br><hr>
+</details>
